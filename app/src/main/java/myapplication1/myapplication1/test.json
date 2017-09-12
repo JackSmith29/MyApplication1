@@ -1,0 +1,608 @@
+[{
+	"id": 1,
+	"Bank": "State Bank of India",
+	"balCheck":" 9223766666",
+	"cc": "18004253800",
+	"miniStatement":" 9223866666",
+	"BankType": 1
+},
+{
+	"id": 2,
+	"Bank": "Bank of Baroda",
+	"balCheck":" 9223011311",
+	"cc": "18001024455",
+	"miniStatement":"MINI@Last 4 digits of Account Number@##5616150",
+	"BankType": 1
+},
+{
+	"id": 3,
+	"Bank": "IDBI Bank",
+	"balCheck":" 18008431122",
+	"cc": "18002001947",
+	"miniStatement":" 18008431133",
+	"BankType": 1
+},
+{
+	"id": 4,
+	"Bank": "Bank of India",
+	"balCheck":" 2233598548",
+	"cc": "1800220229",
+	"miniStatement":"TRANS @SMS Password@##09810558585",
+	"BankType": 1
+},
+{
+	"id": 5,
+	"Bank": "Dena Bank",
+	"balCheck":" 9289356677",
+	"cc": "18002336427",
+	"miniStatement":" 9278656677",
+	"BankType": 1
+},
+{
+	"id": 6,
+	"Bank": "Canara Bank",
+	"balCheck":" 9015483483",
+	"cc": "18004250018",
+	"miniStatement":" 9015734734",
+	"BankType": 1
+},
+{
+	"id": 7,
+	"Bank": "Punjab National Bank",
+	"balCheck": "BAL  @16 digit Account Number@#E.g.  BAL 0153001234567890#5607040",
+	"cc": "18001802222",
+	"miniStatement":" MINSTMT  @16 digit Account Number@#E.g. MINSTMT 0153001234567890#5607040",
+	"BankType": 1
+},
+{
+	"id": 8,
+	"Bank": "Union Bank of India",
+	"balCheck":" 9223009292",
+	"cc": "18002082244",
+	"miniStatement":"UMNS@@#E.g. SMS UMNS to 09223008486#09223008486",
+	"BankType": 1
+},
+{
+	"id": 9,
+	"Bank": "UCO Bank",
+	"balCheck":" 9278792787",
+	"cc": "18001030123",
+	"miniStatement":" 9213125125",
+	"BankType": 1
+},
+{
+	"id": 10,
+	"Bank": "Vijaya Bank",
+	"balCheck":" 18001035525",
+	"cc": "18004255885",
+	"miniStatement":" 18001035535",
+	"BankType": 1
+},
+{
+	"id": 11,
+	"Bank": "Corporation Bank",
+	"balCheck":" 9268892688",
+	"cc": "18004253555",
+	"miniStatement":" CTRN@@#E.g. Send SMS CTRN to 5667716#5667716",
+	"BankType": 1
+},
+{
+	"id": 12,
+	"Bank": "Allahabad Bank",
+	"balCheck":" 9224150150",
+	"cc": "1800226061",
+	"miniStatement":" 9224150150",
+	"BankType": 1
+},
+{
+	"id": 13,
+	"Bank": "Andhra Bank",
+	"balCheck":" 9223011300",
+	"cc": "18004251515",
+	"miniStatement":" MINI @MPIN@#E.g. MINI 4444#09223173924",
+	"BankType": 1
+},
+{
+	"id": 14,
+	"Bank": "Central Bank of India",
+	"balCheck":" 9555244442",
+	"cc": "18002001911",
+	"miniStatement":" 9555144441",
+	"BankType": 1
+},
+{
+	"id": 15,
+	"Bank": "Indian Bank",
+	"balCheck":" 9289592895",
+	"cc": "180043000000",
+	"miniStatement":" LATRAN @Account No@MPIN@#E.g. LATRAN 989898989 5555#09444394443",
+	"BankType": 1
+},
+{
+	"id": 16,
+	"Bank": "United Bank Of India",
+	"balCheck":" ubal @Account no@Password@#E.g. ubal 1234567891013 7890#56161",
+	"cc": "18003450345",
+	"miniStatement":" utran @Account no@Password@#E.g. utran 1234567891013 7890#56161",
+	"BankType": 1
+},
+{
+	"id": 17,
+	"Bank": "Punjab & Sind Bank",
+	"balCheck":"PBAL @Account No@SMS-Banking-Password@#E.g. PBAL 00001000001011 1234#09773056161",
+	"cc": "18004198300",
+	"miniStatement":" PTXN @Account No@SMS-Banking-Password@#E.g. PTXN 00001000001011 1234# 09773056161",
+	"BankType": 1
+},
+{
+	"id": 18,
+	"Bank": "State Bank of Bikaner & Jaipur",
+	"balCheck":" 9223766666",
+	"cc": "18001806005",
+	"miniStatement":" 9223866666",
+	"BankType": 1
+},
+{
+	"id": 19,
+	"Bank": "Bharatiya Mahila Bank",
+	"balCheck":" 9212438888",
+	"cc": "1147472100",
+	"miniStatement":" MINI @Account No@#E.g. MINI 123456789012#09212438888",
+	"BankType": 1
+},
+{
+	"id": 20,
+	"Bank": "Cashnet Bank - Member Bank",
+	"balCheck":" 1800225087",
+	"cc": "1800225087",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 21,
+	"Bank": "State Bank of Hyderabad",
+	"balCheck":" 18004251825",
+	"cc": "18004251825",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 22,
+	"Bank": "State Bank of Mysore",
+	"balCheck":" 18004252244",
+	"cc": "18004252244",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 23,
+	"Bank": "State Bank of Patiala",
+	"balCheck":" 18001802010",
+	"cc": "18001802010",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 24,
+	"Bank": "State Bank of Travancore",
+	"balCheck":" 9223766666",
+	"cc": "18004255566",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 25,
+	"Bank": "Syndicate Bank",
+	"balCheck":" 9241442255",
+	"cc": "8026639966",
+	"miniStatement":" STXN @Customer ID@#E.g. STXN 123456#09664552255",
+	"BankType": 1
+},
+{
+	"id": 26,
+	"Bank": "Bank of Maharashtra",
+	"balCheck":" 9222281818",
+	"cc": "18002334526",
+	"miniStatement":" LATRAN @mpin@#E.g.LATRAN 1234#09223181818",
+	"BankType": 1
+},
+{
+	"id": 27,
+	"Bank": "Oriental Bank of Commerce",
+	"balCheck":" 8067205757",
+	"cc": "18001801235",
+	"miniStatement":" 8067205767",
+	"BankType": 1
+},
+{
+	"id": 28,
+	"Bank": "Indian Overseas Bank",
+	"balCheck":" 18004254445",
+	"cc": "18004254445",
+	"miniStatement":" ",
+	"BankType": 1
+},
+{
+	"id": 29,
+	"Bank": "HDFC Bank",
+	"balCheck":" 18002703333",
+	"cc": "18004254332",
+	"miniStatement":" 18002703355",
+	"BankType": 1
+},
+{
+	"id": 30,
+	"Bank": "ICICI Bank",
+	"balCheck":" 2230256767",
+	"cc": "18001024242",
+	"miniStatement":" ITRAN@@#E.g. SMS  ITRAN to 5676766#5676766",
+	"BankType": 1
+},
+{
+	"id": 31,
+	"Bank": "Axis Bank",
+	"balCheck":" 18004195959",
+	"cc": "18002335577",
+	"miniStatement":" 18004196969",
+	"BankType": 1
+},
+{
+	"id": 32,
+	"Bank": "Kotak Mahindra Bank",
+	"balCheck":" 18002740110",
+	"cc": "18602662666",
+	"miniStatement":" TXN  @Last 4 digits of Account Number@#E.g. TXN 6895#5676788",
+	"BankType": 1
+},
+{
+	"id": 33,
+	"Bank": "Yes Bank",
+	"balCheck":" 9840909000",
+	"cc": "18002000",
+	"miniStatement":" 9223921111",
+	"BankType": 1
+},
+{
+	"id": 34,
+	"Bank": "South Indian Bank",
+	"balCheck":" 9223008488",
+	"cc": "18008431800",
+	"miniStatement":" TRN@Customer PIN@#E.g. TRN1234#09840777222",
+	"BankType": 1
+},
+{
+	"id": 35,
+	"Bank": "Dhanlaxmi Bank",
+	"balCheck":" 8067747700",
+	"cc": "18004251747",
+	"miniStatement":" DLBTXN @Customer ID@#E.g. DLBTXN 568497#56161",
+	"BankType": 2
+},
+{
+	"id": 36,
+	"Bank": "Karnataka Bank",
+	"balCheck":" 18004251445",
+	"cc": "18004251444",
+	"miniStatement":" 18004251446",
+	"BankType": 2
+},
+{
+	"id": 38,
+	"Bank": "Tamilnad Mercantile Bank",
+	"balCheck":" 9211937373",
+	"cc": "18004250426",
+	"miniStatement":" ",
+	"BankType": 2
+},
+{
+	"id": 39,
+	"Bank": "Federal Bank",
+	"balCheck":" 8431900900",
+	"cc": "18004251199",
+	"miniStatement":" 8431600600",
+	"BankType": 2
+},
+{
+	"id": 40,
+	"Bank": "DCB Bank",
+	"balCheck":" 7506660011",
+	"cc": "18002095363",
+	"miniStatement":" 7506660022",
+	"BankType": 2
+},
+{
+	"id": 41,
+	"Bank": "Lakshmi Vilas Bank",
+	"balCheck":"LVB BAL@Customer_id@#E.g.LVB BAL 123456#09282441155",
+	"cc": "18004252233",
+	"miniStatement":" LVB TXN @Customer_id@#E.g. LVB TXN 123456#09282441155",
+	"BankType": 2
+},
+{
+	"id": 42,
+	"Bank": "IndusInd Bank",
+	"balCheck":" 18002741000",
+	"cc": "18605005004",
+	"miniStatement":" MINI@@#E.g. Send SMS MINI to 9212299955#09212299955",
+	"BankType": 2
+},
+{
+	"id": 43,
+	"Bank": "RBL Bank",
+	"balCheck":" 18004190610",
+	"cc": "18001238040",
+	"miniStatement":" TXN @Customer ID@#E.g. TXN 8008801010000423#09223366333",
+	"BankType": 2
+},
+{
+	"id": 44,
+	"Bank": "Bandhan Bank",
+	"balCheck":" 9223008666",
+	"cc": "18002588181",
+	"miniStatement":" 9223008777",
+	"BankType": 2
+},
+{
+	"id": 45,
+	"Bank": "Citi Bank",
+	"balCheck":"BAL  @Last 4 digits of your debit card number@#E.g. BAL 3425#09880752484",
+	"cc": "",
+	"miniStatement":" ",
+	"BankType": 2
+},
+{
+	"id": 46,
+	"Bank": "HSBC Bank",
+	"balCheck":" 18001034722",
+	"cc": "18001034722",
+	"miniStatement":" MINI @account nickname@#E.g. MINI NIR#09611124722",
+	"BankType": 2
+},
+{
+	"id": 47,
+	"Bank": "American Express",
+	"balCheck":" 1800446630",
+	"cc": "1800446630",
+	"miniStatement":" ",
+	"BankType": 2
+},
+{
+	"id": 48,
+	"Bank": "Deutsche Bank",
+	"balCheck":"Bal@@#E.g. Send SMS Bal to 561615#561615",
+	"cc": "18001236601",
+	"miniStatement":" TSA @last 4 digits of a/c@#E.g. TSA 3456#561615",
+	"BankType": 2
+},
+{
+	"id": 49,
+	"Bank": "ABN Amro Bank",
+	"balCheck":" 1800112224",
+	"cc": "1800112224",
+	"miniStatement":" ",
+	"BankType": 2
+},
+{
+	"id": 50,
+	"Bank": "ANZ Bank",
+	"balCheck":" 18002000269",
+	"cc": "18002000269",
+	"miniStatement":" ",
+	"BankType": 2
+},
+{
+	"id": 51,
+	"Bank": "Barclays Bank",
+	"balCheck":" 2260007888",
+	"cc": "2260007888",
+	"miniStatement":" ",
+	"BankType": 3
+},
+{
+	"id": 52,
+	"Bank": "Royal Bank of Scotland",
+	"balCheck":" 9227148472",
+	"cc": "1800112224",
+	"miniStatement":" ",
+	"BankType": 3
+},
+{
+	"id": 53,
+	"Bank": "Standard Chartered Bank",
+	"balCheck":"BAL@@#E.g. Send SMS BAL to 09987123123#09987123123",
+	"cc": "",
+	"miniStatement":" TXN@@#E.g. Send SMS TXN to 09987123123#09987123123",
+	"BankType": 3
+},
+{
+	"id": 54,
+	"Bank": "ADC Bank",
+	"balCheck":"BALAVL @A/c No@MPIN@#E.g.BALAVL 25364578 1234#09227444420",
+	"cc": "7927542608",
+	"miniStatement":" LATRAN @MPIN@#E.g.LATRAN 1234#09227444420",
+	"BankType": 3
+},
+{
+	"id": 55,
+	"Bank": "SVC Co-Operative Bank",
+	"balCheck":"SBAL @Account_No@#E.g. SBAL 123456789#09820620454",
+	"cc": "",
+	"miniStatement":" STRA @ Account_No@#E.g. STRA 123456789#09820620454",
+	"BankType": 3
+},
+{
+	"id": 56,
+	"Bank": "The Gujarat State Co-op. Bank Ltd.",
+	"balCheck":"BALAVL @A/c No@MPIN@#Eg: BALAVL 123456789123 1234#09223285005",
+	"cc": "7927459000",
+	"miniStatement":" LATRAN @MPIN@#Eg: LATRAN 1234#09223285005",
+	"BankType": 3
+},
+{
+	"id": 57,
+	"Bank": "The Ahmedabad Mercantile Co-op. Bank Ltd.",
+	"balCheck":" 8030636264",
+	"cc": "7926426582",
+	"miniStatement":" ",
+	"BankType": 3
+},
+{
+	"id": 58,
+	"Bank": "The Kalupur Commercial Co-op. Bank",
+	"balCheck":" 9712906224",
+	"cc": "7927582020",
+	"miniStatement":" 9712906225",
+	"BankType": 3
+},
+{
+	"id": 59,
+	"Bank": "The Mehsana Urban Co-op. Bank",
+	"balCheck":" 9266692668",
+	"cc": "2762257233",
+	"miniStatement":" ",
+	"BankType": 3
+},
+{
+	"id": 60,
+	"Bank": "Sardar Bhiladwala Pardi Peoples Co-op. Bank",
+	"balCheck":"SBAL@@#Eg: SBAL to 09274092740#09274092740",
+	"cc": "2602373528",
+	"miniStatement":" LST3@@#Eg: LST3 to 09274092740#09274092740",
+	"BankType": 4
+},
+{
+	"id": 61,
+	"Bank": "A. P. Mahesh Co-op. Bank",
+	"balCheck":" Balance@@#E.g.Send SMS Balance to 09248077450#09248077450",
+	"cc": "4024615296",
+	"miniStatement":" Mini@@#E.g.Send SMS Mini to 09248077450#09248077450",
+	"BankType": 4
+},
+{
+	"id": 62,
+	"Bank": "Abhyudaya Co-op. Bank",
+	"balCheck":" 18004195511",
+	"cc": "2224115047",
+	"miniStatement":" ",
+	"BankType": 4
+},
+{
+	"id": 63,
+	"Bank": "Bassein Catholic Co-op. Bank",
+	"balCheck":"BAL@@#Eg: Send SMS SBAL to 09222272407#09222272407",
+	"cc": "18002336000",
+	"miniStatement":" LST3@@#Eg: Send SMS LST3 to 09222272407#09222272407",
+	"BankType": 4
+},
+{
+	"id": 64,
+	"Bank": "Cosmos Bank",
+	"balCheck":"BAL @MMID@#Eg: BAL 9164123#09225677755",
+	"cc": "18002330234",
+	"miniStatement":" MINI @MMID@#Eg: MINI 9164123#09225677755",
+	"BankType": 4
+},
+{
+	"id": 65,
+	"Bank": "Dombivli Nagari Sahakari Bank Ltd.",
+	"balCheck":"SBAL@@#Eg: Send SMS SBAL to 09225525002#09225525002",
+	"cc": "18002331700",
+	"miniStatement":" LST3@@#Eg: Send SMS LST3 to 09225525002#09225525002",
+	"BankType": 4
+},
+{
+	"id": 66,
+	"Bank": "Gopinath Patil Parsik Janata Sahakari Bank",
+	"balCheck":"SBAL@@#Eg: Send SMS SBAL to 09773466565#09773466565",
+	"cc": "1800222511",
+	"miniStatement":" LST3@@#Eg: Send SMS LST3 to 09773466565#09773466565",
+	"BankType": 4
+},
+{
+	"id": 67,
+	"Bank": "Jalgaon Janata Sahakari Bank",
+	"balCheck":"BAL @Account No@#Eg: BAL 16023008047#09823212365",
+	"cc": "9823611181",
+	"miniStatement":" LFT @Account No@#Eg: LFT 16023008047#09823212365",
+	"BankType": 4
+},
+{
+	"id": 68,
+	"Bank": "Janakalyan Sahakari Bank",
+	"balCheck":"SBAL @A/C Type@A/C No.@#Eg: SBAL SB 345#09223178900",
+	"cc": "1800225381",
+	"miniStatement":" LST3 @A/C Type@A/C No.@#Eg: LST3 SB 345#09223178900",
+	"BankType": 4
+},
+{
+	"id": 69,
+	"Bank": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank",
+	"balCheck":"SBAL @A/C Type@A/C No@#Eg: SBAL SB 345#09225650117",
+	"cc": "18002336800",
+	"miniStatement":" LST3 @A/C Type@A/C No@#Eg: LST3 SB 345#09225650117",
+	"BankType": 4
+},
+{
+	"id": 70,
+	"Bank": "Akhand Anand Co-op. Bank",
+	"balCheck":"BAL@@#Eg. Bal to 09243000111#09243000111",
+	"cc": "2612532540",
+	"miniStatement":" STM@@#Eg. STM to 09243000111#09243000111",
+	"BankType": 4
+},
+{
+	"id": 71,
+	"Bank": "The Varachha Co-op. Bank",
+	"balCheck":" 2614008080",
+	"cc": "2614008000",
+	"miniStatement":" ",
+	"BankType": 4
+},
+{
+	"id": 72,
+	"Bank": "New India Co-op. Bank",
+	"balCheck":"SBAL @Account No@#Eg: SBAL 001330070000001#09870977191",
+	"cc": "2266586658",
+	"miniStatement":" LST3 @Account No@#Eg: LST3 001330070000001#09870977191",
+	"BankType": 4
+},
+{
+	"id": 73,
+	"Bank": "NKGSB Co-op. Bank",
+	"balCheck":"SBAL@@#Eg: Send SMS SBAL to  5667789#5667789",
+	"cc": "2228602000",
+	"miniStatement":" LST3@@#Eg: Send SMS LST3 to 5667789#5667789",
+	"BankType": 4
+},
+{
+	"id": 74,
+	"Bank": "Sangli Urban Co-op. Bank",
+	"balCheck":" 9403782800",
+	"cc": "2332376236",
+	"miniStatement":" L5 @Account No@#Eg: L5 123456#09403782800",
+	"BankType": 4
+},
+{
+	"id": 75,
+	"Bank": "Saraswat Co-op. Bank",
+	"balCheck":" 9223040000",
+	"cc": "1800229999",
+	"miniStatement":" 9223501111",
+	"BankType": 4
+},
+{
+	"id": 76,
+	"Bank": "Thane Bharat Sahakari Bank",
+	"balCheck":"SBAL@@#Eg: Send SMS SBAL to 09223170001#09223170001",
+	"cc": "2225333604",
+	"miniStatement":" LST3@@#Eg: Send SMS LST3 to 09223170001#09223170001",
+	"BankType": 4
+},
+{
+	"id": 77,
+	"Bank": "TJSB Sahakari Bank",
+	"balCheck":" 9212005550",
+	"cc": "1800223466",
+	"miniStatement":" LST3 @A/C Type@A/C No@#E.g. LST3 SB 345#9870888210",
+	"BankType": 4
+}]
