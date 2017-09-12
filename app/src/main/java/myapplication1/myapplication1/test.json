@@ -1,7 +1,7 @@
 [{
 	"id": 1,
 	"Bank": "State Bank of India",
-	"balCheck":" 9223766666",
+	"balCheck":"9223766666",
 	"cc": "18004253800",
 	"miniStatement":" 9223866666",
 	"BankType": 1
